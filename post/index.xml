@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xianming Dou&#39;s blog</title>
-    <link>/</link>
-    <description>Recent content on Xianming Dou&#39;s blog</description>
+    <title>Posts on Xianming Dou&#39;s blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Xianming Dou&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Aug 2018 12:40:55 +0800</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/post/transaction_in_pgsql/</guid>
       <description>Transaction implementation in PostgreSQL.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Tue, 14 Aug 2018 12:07:49 +0800</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Technical blogs about Database, typically PostgreSQL.</description>
     </item>
     
   </channel>
