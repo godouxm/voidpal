@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Database on Code Player, Xianming Dou</title>
-    <link>http://example.org/tags/database/</link>
-    <description>Recent content in Database on Code Player, Xianming Dou</description>
+    <title>Database on Xianming Dou&#39;s blog</title>
+    <link>/tags/database/</link>
+    <description>Recent content in Database on Xianming Dou&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Aug 2018 12:40:55 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/database/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/database/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>PostgreSQL的事务实现机制</title>
-      <link>http://example.org/transaction_in_pgsql/</link>
-      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      <title>Transaction implenmentation in PostgreSQL</title>
+      <link>/post/transaction_in_pgsql/</link>
+      <pubDate>Tue, 14 Aug 2018 12:40:55 +0800</pubDate>
       
-      <guid>http://example.org/transaction_in_pgsql/</guid>
-      <description>First post.</description>
+      <guid>/post/transaction_in_pgsql/</guid>
+      <description>Transaction implementation in PostgreSQL.</description>
     </item>
     
   </channel>
