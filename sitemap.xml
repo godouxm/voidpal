@@ -3,48 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/transaction_in_pgsql/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/database/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/github/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/github/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/postgresql/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
