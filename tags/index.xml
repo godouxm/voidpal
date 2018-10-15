@@ -6,9 +6,37 @@
     <description>Recent content in Tags on Xianming Dou&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 15 Oct 2018 20:28:45 +0800</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Postgresql</title>
+      <link>/tags/postgresql/</link>
+      <pubDate>Mon, 15 Oct 2018 20:28:45 +0800</pubDate>
+      
+      <guid>/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transaction</title>
+      <link>/tags/transaction/</link>
+      <pubDate>Mon, 15 Oct 2018 20:28:45 +0800</pubDate>
+      
+      <guid>/tags/transaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translation</title>
+      <link>/tags/translation/</link>
+      <pubDate>Mon, 15 Oct 2018 20:28:45 +0800</pubDate>
+      
+      <guid>/tags/translation/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

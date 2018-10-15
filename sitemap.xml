@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/transaction_in_postgresql/</loc>
+    <lastmod>2018-10-15T20:28:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/practical_guide_to_sql_transaction_isolation/</loc>
+    <lastmod>2018-10-15T20:28:45+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2018-08-14T12:07:49+08:00</lastmod>
   </url>
@@ -13,13 +23,44 @@
   </url>
   
   <url>
+    <loc>/categories/database/</loc>
+    <lastmod>2018-10-15T20:28:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/postgresql/</loc>
+    <lastmod>2018-10-15T20:28:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-10-15T20:28:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
+    <lastmod>2018-10-15T20:28:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/transaction/</loc>
+    <lastmod>2018-10-15T20:28:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/translation/</loc>
+    <lastmod>2018-10-15T20:28:45+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-08-14T12:07:49+08:00</lastmod>
+    <lastmod>2018-10-15T20:28:45+08:00</lastmod>
     <priority>0</priority>
   </url>
   

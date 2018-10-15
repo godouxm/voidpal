@@ -6,19 +6,27 @@
     <description>Recent content in Postgresql on Xianming Dou&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Aug 2018 12:40:55 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 15 Oct 2018 20:28:45 +0800</lastBuildDate>
     
 	<atom:link href="/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Transaction implenmentation in PostgreSQL</title>
-      <link>/post/transaction_in_pgsql/</link>
-      <pubDate>Tue, 14 Aug 2018 12:40:55 +0800</pubDate>
+      <title>PostgreSQL中的事务实现</title>
+      <link>/post/transaction_in_postgresql/</link>
+      <pubDate>Mon, 15 Oct 2018 20:28:45 +0800</pubDate>
       
-      <guid>/post/transaction_in_pgsql/</guid>
-      <description>Will describe the transaction implementation in PostgreSQL.
-To be continue&amp;hellip;</description>
+      <guid>/post/transaction_in_postgresql/</guid>
+      <description>PostgreSQL事务实现系列文章</description>
+    </item>
+    
+    <item>
+      <title>翻译：Practical Guide to SQL Transaction Isolation</title>
+      <link>/post/practical_guide_to_sql_transaction_isolation/</link>
+      <pubDate>Mon, 15 Oct 2018 20:28:45 +0800</pubDate>
+      
+      <guid>/post/practical_guide_to_sql_transaction_isolation/</guid>
+      <description>准备翻译Practical Guide to SQL Transaction Isolation</description>
     </item>
     
   </channel>
